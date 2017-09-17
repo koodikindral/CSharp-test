@@ -10,6 +10,11 @@ namespace Praktikum1Demo
     {
         static void Main(string[] args)
         {
+            // CTRL + F5  / F5 (debugging)
+            Console.WriteLine("Hello World!");
+            
+            String line = Console.ReadLine();
+            Console.WriteLine("Write: " + line);
         }
     }
 }

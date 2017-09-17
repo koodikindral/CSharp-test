@@ -1,0 +1,7 @@
+C:\Users\gvesterb\Desktop\Praktikum1Solution\Praktikum1Demo\bin\Debug\Praktikum1Demo.exe.config
+C:\Users\gvesterb\Desktop\Praktikum1Solution\Praktikum1Demo\bin\Debug\Praktikum1Demo.exe
+C:\Users\gvesterb\Desktop\Praktikum1Solution\Praktikum1Demo\bin\Debug\Praktikum1Demo.pdb
+C:\Users\gvesterb\Desktop\Praktikum1Solution\Praktikum1Demo\obj\Debug\Praktikum1Demo.csprojResolveAssemblyReference.cache
+C:\Users\gvesterb\Desktop\Praktikum1Solution\Praktikum1Demo\obj\Debug\Praktikum1Demo.csproj.CoreCompileInputs.cache
+C:\Users\gvesterb\Desktop\Praktikum1Solution\Praktikum1Demo\obj\Debug\Praktikum1Demo.exe
+C:\Users\gvesterb\Desktop\Praktikum1Solution\Praktikum1Demo\obj\Debug\Praktikum1Demo.pdb
