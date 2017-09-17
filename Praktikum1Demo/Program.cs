@@ -40,7 +40,7 @@ namespace Praktikum1Demo
                 Console.WriteLine("Parse failed");
             }
             */
-            int ym = 0;
+            //int ym = 0;
 
             if (kolmnurk(2, 3, 3, out int tulemus))
             {
