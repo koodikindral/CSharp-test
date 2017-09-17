@@ -13,9 +13,9 @@ namespace Praktikum1Demo
         {
             // CTRL + F5  / F5 (debugging)
             Console.WriteLine("Palun sisestage vanus");
-            int age = 0;
-            
             /*
+            int age = 0;
+           
             try
             {
                 age = int.Parse(Console.ReadLine());
@@ -27,11 +27,17 @@ namespace Praktikum1Demo
             }
             */
 
-            Boolean isValid = int.TryParse(Console.ReadLine(), out age);
 
-            if (age < 18)
+            //Boolean isValid = int.TryParse(Console.ReadLine(), out age);
+
+            if (int.TryParse(Console.ReadLine(), out int age))
             {
-                Console.WriteLine("Alaealine");
+                if (age < 18) Console.WriteLine("Alaealine");
+                else Console.WriteLine("Täisealine");
+            }
+            else
+            {
+                Console.WriteLine("Parse failed");
             }
 
             Console.WriteLine("Write: " + age);
