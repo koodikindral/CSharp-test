@@ -11,10 +11,16 @@ namespace Praktikum1Demo
         static void Main(string[] args)
         {
             // CTRL + F5  / F5 (debugging)
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Palun sisestage vanus");
             
-            String line = Console.ReadLine();
-            Console.WriteLine("Write: " + line);
+            int age = int.Parse(Console.ReadLine());
+
+            if (age < 18)
+            {
+                Console.WriteLine("Alaealine");
+            }
+
+            Console.WriteLine("Write: " + age);
         }
     }
 }
